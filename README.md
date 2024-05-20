@@ -1,1 +1,0 @@
-# Kubernetes-Ingress-External-Authentication-with-OAuth2-Proxy-and-Keycloak
